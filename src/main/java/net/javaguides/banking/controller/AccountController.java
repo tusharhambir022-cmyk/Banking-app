@@ -77,7 +77,7 @@ public class AccountController
         return ResponseEntity.ok("Account is deleted sucessfully");
     }
 
-    public void addition(int a)
+    public void addition(int a , int b)
     {
         System.out.print("Hello world");
     }
